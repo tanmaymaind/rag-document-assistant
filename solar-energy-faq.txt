@@ -1,0 +1,11 @@
+Solar Energy FAQ
+
+Solar panels convert sunlight into electricity using photovoltaic cells. When sunlight hits a cell, it knocks electrons loose and creates an electric current that can power a home or feed into the grid.
+
+A typical residential rooftop system in India is between 3 kilowatts and 10 kilowatts, depending on roof area and household electricity use. A 5 kilowatt system can generate roughly 600 to 750 units of electricity per month in a sunny region, although the exact output depends on panel orientation, shading, and local weather.
+
+Solar panels need very little maintenance. Rain usually washes away dust, but panels should be cleaned a few times a year in dusty areas, and the inverter should be checked annually. Most panels carry a performance warranty of 25 years.
+
+Net metering allows a household to send surplus solar electricity to the grid and receive credit on its electricity bill. The exact net metering policy, tariff, and application process vary by state and by electricity distribution company, so owners should check their local rules before installation.
+
+Battery storage is optional. Without a battery, a grid-connected system stops supplying power during a grid outage for safety reasons, unless it has a hybrid inverter and battery backup.
