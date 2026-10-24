@@ -110,6 +110,3 @@ Scope note: the sample set is deliberately small and topical, so 1.00 is a sanit
 - Chunking by sentence/paragraph boundaries and hybrid (keyword + dense) retrieval
 - Larger, human-labelled evaluation set with answer-quality scoring
 
-## License
-
-MIT — see [LICENSE](LICENSE).
